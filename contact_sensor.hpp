@@ -9,8 +9,8 @@
 #define NIKOLEX_CONTACT_SENSOR_CONTACT_SENSOR_HPP_
 
 #include <cstdint>
-#include "../interfaces/reader.hpp"
-#include "../interfaces/input_pin.hpp"
+#include "interfaces/reader.hpp"
+#include "interfaces/input_pin.hpp"
 
 namespace nikolex {
 
